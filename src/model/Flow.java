@@ -1,6 +1,4 @@
-package engine;
-
-import model.AppType;
+package model;
 
 public class Flow {
 
